@@ -1,4 +1,5 @@
 module.exports = {
+    publicPath: '/budonsan/dist/',
     css: {
       loaderOptions: {
         scss: {
