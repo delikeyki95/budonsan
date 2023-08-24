@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    color:$text-color;
+    padding:10px;
+}
+
+.btn {
+    display:inline-block;
+    margin:5px; 
+    padding:3px;
+    background-color:$primary-background-color;
+    color:$button-text-color;
+    border-radius:$default-radius;
+    border:0;
+    cursor:pointer;
+  
+    &:hover {
+      background-color:darkblue
+    }
+  }
