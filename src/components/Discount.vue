@@ -1,6 +1,6 @@
 <template>
     <div class="discount" v-if="showDiscount == true">
-     <h3>지금 결제하면 {{ salePercent }}% 할인</h3>
+     <h3>지금 결제하면 {{ salePercent }}% 할인!!</h3>
     </div>
 </template>
 
